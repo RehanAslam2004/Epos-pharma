@@ -1,0 +1,5 @@
+{
+  "name": "EPOS Pharma",
+  "description": "A local-only web-based pharmacy POS system.",
+  "requestFramePermissions": []
+}
